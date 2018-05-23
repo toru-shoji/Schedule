@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Schedule</string>
+
+    <string name="finish_schedule_app" formatted="false">%s を終了しますか？</string>
+
+    <string name="display_year_month_date" formatted="false">%d年 %d月</string>
+    <string name="display_week_number" formatted="false">第 %d 週</string>
+
+</resources>
